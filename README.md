@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, welcome to my profile!
+
+- 👤 I'm 22 a years-old, with a Computer Science Degree 
+- ✉ You can connect with me through: [LinkedIn](https://www.linkedin.com/in/hpenap/)
 
 <!--
 **hpenapp/hpenapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
