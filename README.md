@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome to my profile!
 
 - 👤 I'm 22 a years-old, with a Computer Science Degree 
-- 💼 I am employed by D&C Solutions in Monterrey, Mexico
+- 💼 I am employed at D&C Solutions in Monterrey, Mexico
 - 📄 My [Activity log](https://hpenapp.github.io/DC-Activities-Log/) as an employee of D&C Solutions here.
 - ✉ You can connect with me through: [LinkedIn](https://www.linkedin.com/in/hpenap/)
 
